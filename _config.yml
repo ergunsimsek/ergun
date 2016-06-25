@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Zhifan Li | 李之凡
+bio: software engineer in the bay. runner.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about stuff
 
 # if it's an external image, update below for true
 # better with square images
@@ -29,18 +29,18 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: zhifan.li42
+twitter: iszfan
 # google: mygoogle
-# instagram: myinstagram
+instagram: iszfan
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: zhifanli
+# youtube: myyoutube
+# spotify: myspotify
+github: iszfan
+medium: iszfan
+# vimeo: myvimeo
+# email: myemai@gmail.com
 
 authors:
     johndoe:

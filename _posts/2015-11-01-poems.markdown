@@ -1,0 +1,63 @@
+---
+title: "2015年11月1日诗"
+layout: post
+date: 2015-11-02 14:27:49
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- poem
+blog: true
+author: iszfan
+description: 
+---
+## 一次觅食
+
+半夜
+饿
+没有食物
+喝啤酒充饥
+胃里
+空空的全是寂寞
+
+***
+
+## 感谢uber
+
+大雨
+倾盆如注
+休村
+池大湖美
+洪流如记忆
+我们
+再也回不去了
+
+***
+
+## 面试侠
+
+天上飞着的
+还有逃学的面试侠
+科班出生的超人
+提着公文包
+感到悲凉
+
+***
+
+## 一只女性主义怪兽
+
+从天而降的
+一只怪兽
+不小心
+打破了glass ceiling
+
+***
+
+## 致富之路
+
+一个正在load程序的
+程序员
+工作完毕后
+一夜暴富
+#loaded
+
+
