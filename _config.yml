@@ -12,7 +12,7 @@ description: A blog about stuff
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/ergun.jpg
 
 url: http://iszfan.github.io
