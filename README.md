@@ -1,5 +1,9 @@
-### Personal Website
+# Personal Website
 
-#### Inspirations:
-- [Addy Osmani](https://addyosmani.com/)
-- [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+This is my personal web page.
+
+## License
+
+This project is licensed under the MIT License 
+
+
