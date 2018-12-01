@@ -10,8 +10,8 @@ description: A blog about stuff
 external-image: true
 picture: assets/images/ergun.jpg
 
-url: http://iszfan.github.io
-# your url: https://ergunsimsekoglu.github.io/ergun/
+url: http://ergunsimsek.github.io
+# your url: https://ergunsimsek.github.io/ergun/
 
 permalink: /:title/
 
